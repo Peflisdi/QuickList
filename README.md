@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-Projeto de uma landing page de produto desenvolvido durante as aulas sobre Responsividade na Rocketseat.
+Projeto de uma lista de compras responsiva que desenvolvi para praticar HTML, CSS e JavaScript.
 </p>
 
 <p align="center">
