@@ -81,6 +81,10 @@ input:focus {
   outline: none;
 }
 
+button {
+  cursor: pointer;
+}
+
 form button {
   padding: 0.75rem;
   border-radius: 0.75rem;
@@ -161,7 +165,7 @@ input[type="checkbox"]:checked + .checkbox-icon {
 }
 
 footer {
-  display: flex;
+  display: none;
   flex-direction: row;
   align-items: center;
   justify-content: space-between;
